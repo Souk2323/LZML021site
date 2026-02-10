@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="assets/css/style.css">
+    <title>Exercice Séance 2</title>
+</head>
+<body>
+    <div id="page"> <div class="entete"> <h1>Prénom Nom</h1>
+            <p>Licence 3 des Sciences du Langage</p>
+            <img src="assets/img/logo.png" alt="Logo Sorbonne" width="150">
+            <img src="assets/img/photo.png" alt="Ma photo" width="200">
+        </div>
+
+        <div id="aboutme"> <h2>À propos de moi</h2>
+            <p>Mon CV des trois dernières années...</p>
+            </div>
+
+        <footer> <a href="https://www.sorbonne-nouvelle.fr/">Lien vers le site de Sorbonne Nouvelle</a>
+        </footer>
+
+    </div>
+</body>
+</html>
