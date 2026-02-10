@@ -6,7 +6,7 @@
     <title>Exercice Séance 2</title>
 </head>
 <body>
-    <div id="page"> <div class="entete"> <h1>Prénom Nom</h1>
+    <div id="page"> <div class="entete"> <h1>Soukaina El kasmi</h1>
             <p>Licence 3 des Sciences du Langage</p>
             <img src="assets/img/logo.png" alt="Logo Sorbonne" width="150">
             <img src="assets/img/photo.png" alt="Ma photo" width="200">
